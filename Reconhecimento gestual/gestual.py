@@ -1,3 +1,5 @@
+# Ricardo de Paula Xavier - 2515750
+# Leonardo Naime Lima - 2515660
 import cv2
 import numpy as np
 
