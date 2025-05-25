@@ -11,8 +11,9 @@ Este repositório reúne os projetos desenvolvidos para a disciplina **Interface
 
 Cada atividade/prática está separada por pastas, contendo seus respectivos arquivos e descrições:
 
-- `Atividade-1-AplicacaoSinais/` — Aplicação com sinais elétricos (descrição curta do objetivo).
-- `Atividade-2-ReconhecimentoVoz/` — Reconhecimento de voz usando Python (descrição curta do objetivo).
+- `Atividade-1-Aplicacao Sinais/` — Aplicação com sinais elétricos.
+- `Atividade-2-Reconhecimento Voz/` — Reconhecimento de voz usando Python com a biblioteca tranformers.
+- `Atividade-3-Reconhecimento Gestual/`- Reconhecimento de gestual usando Python com a biblioteca OpenCV.
 - *(Outras atividades serão adicionadas conforme o andamento da disciplina)*
 
 ## 📅 Objetivo da Disciplina
