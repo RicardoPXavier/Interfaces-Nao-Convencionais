@@ -5,7 +5,7 @@ import socket
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from collections import deque
-import numpy as np
+import numpy as np # type: ignore
 import time
 from threading import Thread, Lock
 
