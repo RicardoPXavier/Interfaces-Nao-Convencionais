@@ -1,3 +1,6 @@
+#Ricardo de Paula Xavier - 2515750
+#Leonardo Naime Lima - 2515660
+
 import socket
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
